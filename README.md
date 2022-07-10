@@ -1,5 +1,9 @@
 # DL_HW2 (News classification)
 
+## Objective
+
+Classify the news
+
 ## Text preprocessing
 
 1. NLTK tokenizer
